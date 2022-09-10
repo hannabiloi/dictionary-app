@@ -1,6 +1,5 @@
-
-import './App.css';
-import Dictionary from './Dictionary';
+import "./App.css";
+import Dictionary from "./Dictionary";
 
 function App() {
   return (
@@ -11,8 +10,17 @@ function App() {
           <Dictionary defaultKeyword="pug" />
         </main>
         <footer className="App-footer">
-          <span>Coded by Hanna Biloi, open-sourced on GitHub {" "}
-          <i className="fa-brands fa-github"></i></span>
+          <span>
+            Coded by Hanna Biloi, open-sourced on{" "}
+            <a
+              href="https://github.com/hannabiloi/dictionary-app"
+              target="_blank"
+              ref="noreferrer"
+            >
+              GitHaub
+            </a>
+            <i className="fa-brands fa-github"></i>
+          </span>
         </footer>
       </div>
     </div>
