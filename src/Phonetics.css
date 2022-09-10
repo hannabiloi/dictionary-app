@@ -1,0 +1,12 @@
+.Phonetic span {
+    margin-bottom: 0;
+    font-family: 'Anonymous Pro', monospace ;
+    color: #0e1555;
+}
+i{
+    color: #0e1555;
+    transition: all 150ms ease-in-out;
+}
+i:hover{
+    color: #fd367e;
+}

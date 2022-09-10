@@ -1,0 +1,26 @@
+section {
+    background-color: rgb(255, 246, 254);
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 1px 7px 20px #b095db33;
+    margin: 20px 0;
+}
+form {
+    display: block;
+    text-align: center;
+    
+}
+input {
+    width:100%;
+    padding: 6px 10px;
+    border: 1px solid #d5c0e7;
+    background-color: rgb(255, 246, 254);
+    border-radius: 4px;
+    color: #2d095c;
+
+}
+p {
+    color: #2d095c;
+    font-size: 24px;
+
+}
