@@ -17,8 +17,8 @@ function App() {
               target="_blank"
               rel="noreferrer"
             >
-              GitHaub
-            </a>
+              GitHub
+            </a>{" "}
             <i className="fa-brands fa-github"></i>
           </span>
         </footer>
