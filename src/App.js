@@ -15,7 +15,7 @@ function App() {
             <a
               href="https://github.com/hannabiloi/dictionary-app"
               target="_blank"
-              ref="noreferrer"
+              rel="noreferrer"
             >
               GitHaub
             </a>
